@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/a_models/mp44/v_mp44_prpn"
+	"$bumpmap" "models/weapons/a_models/mp44/v_mp44_normal_prpn"
+	"$phong" "1"
+	"$phongboost" "0.2"	
+	"$phongfresnelranges"	"[8 1 1]"
+//	"$halflambert" "1"
+	"$phongexponent" "32"
+	"$phongalbedotint" "1"
+}
+
+
+
+
+
+
+
+
+ // PR0PRN Style 07 //

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\a_models\amerk/v_amerk"
+                "$bumpmap"     "models\weapons\a_models\amerk\normal"
+
+}

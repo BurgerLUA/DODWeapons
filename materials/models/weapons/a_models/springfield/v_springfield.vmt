@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/a_models/springfield/v_springfield"
+	"$bumpmap" "models/weapons/a_models/springfield/v_springfield_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.32 .32 .32]"
+	"$normalmapalphaenvmapmask" 1
+}

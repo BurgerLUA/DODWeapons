@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\a_models\frag/v_frag"
+
+"$bumpmap" "models\weapons\a_models\frag/normal"
+
+
+
+"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongexponent" "35"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongalbedotint" "1"
+
+
+
+}

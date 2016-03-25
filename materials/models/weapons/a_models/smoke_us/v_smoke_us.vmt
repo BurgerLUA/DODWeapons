@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\a_models\smoke_us/v_smoke_us"
+        "$bumpmap" "models\weapons\a_models\smoke_us\v_smoke_us_normal"  
+        "$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]" 
+	"$envmapcontrast" 0.90
+	
+}

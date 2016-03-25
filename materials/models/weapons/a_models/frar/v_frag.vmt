@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\a_models\frar/v_frag"
+	"$bumpmap" "models\weapons\a_models\frar/v_frag_normal"
+}

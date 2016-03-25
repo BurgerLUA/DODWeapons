@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\a_models\Trench\wood_dark"
+	"$bumpmap" "models\weapons\a_models\Trench\wood_dark_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+}

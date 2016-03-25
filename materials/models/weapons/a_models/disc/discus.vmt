@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\a_models\disc/discus"
+
+"$bumpmap" "models\weapons\a_models\disc/discusn"
+
+
+
+"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongexponent" "36"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongalbedotint" "1"
+
+
+
+}

@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\a_models\thompson/v_thompson"
+	"$bumpmap"	"models\weapons\a_models\thompson/v_thompson_normal"
+
+
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" "0.2"	
+	"$phongfresnelranges"	"[1 2.5 5]"
+	"$phongalbedotint" "1"
+
+}
+
+
+
+
+// PR0PEN STYLE 08. THOMPSON V1 - UPDATE

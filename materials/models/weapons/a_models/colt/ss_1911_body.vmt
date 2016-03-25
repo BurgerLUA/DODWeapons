@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\a_models\colt\SS_1911_body"
+        "$bumpmap" "models\weapons\a_models\colt\SS_1911_body_normal"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.2"	
+	"$phongfresnelranges"	"[1 3 6]"
+	"$phongalbedotint" "1"
+}
+}
+
+
+
+
+                                                                   PR0PEN Style ´07
