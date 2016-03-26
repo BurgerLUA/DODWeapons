@@ -23,14 +23,14 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "smg"
 
-SWEP.Primary.Damage			= 20
+SWEP.Primary.Damage			= 15
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_Thompsoh.Shoot" )
 SWEP.Primary.Cone			= 0.01
 SWEP.Primary.ClipSize		= 71
-SWEP.Primary.SpareClip		= 71 * 4
+SWEP.Primary.SpareClip		= 71 * 1
 SWEP.Primary.Delay			= 1/(1000/60)
-SWEP.Primary.Ammo			= "CombineCannon"
+SWEP.Primary.Ammo			= "dod_763x25"
 SWEP.Primary.Automatic 		= true
 
 SWEP.RecoilMul 				= 1

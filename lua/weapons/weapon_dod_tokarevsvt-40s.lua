@@ -4,7 +4,7 @@ if CLIENT then
 end
 
 SWEP.Category				= "Day of Defeat"
-SWEP.PrintName				= "7.62x54mmR SVT-40  Scoped"
+SWEP.PrintName				= "7.62x54mmR SVT-40 Scoped"
 SWEP.Base					= "weapon_cs_base"
 SWEP.WeaponType				= "Primary"
 
@@ -30,7 +30,7 @@ SWEP.Primary.Cone			= 0
 SWEP.Primary.ClipSize		= 10
 SWEP.Primary.SpareClip		= 10 * 4
 SWEP.Primary.Delay			= 1/(300/60)
-SWEP.Primary.Ammo			= "CombineCannon"
+SWEP.Primary.Ammo			= "dod_762x54"
 SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 1

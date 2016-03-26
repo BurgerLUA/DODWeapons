@@ -32,7 +32,7 @@ SWEP.Primary.Cone			= 0.01
 SWEP.Primary.ClipSize		= 7
 SWEP.Primary.SpareClip		= 7 * 4
 SWEP.Primary.Delay			= 1
-SWEP.Primary.Ammo			= "CombineCannon"
+SWEP.Primary.Ammo			= "Buckshot"
 SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 1

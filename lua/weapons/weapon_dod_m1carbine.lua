@@ -4,7 +4,7 @@ if CLIENT then
 end
 
 SWEP.Category				= "Day of Defeat"
-SWEP.PrintName				= "7.62x33mm M1 Carbine"
+SWEP.PrintName				= ".30 M1 Carbine"
 SWEP.Base					= "weapon_cs_base"
 SWEP.WeaponType				= "Primary"
 
@@ -30,7 +30,7 @@ SWEP.Primary.Cone			= 0.004
 SWEP.Primary.ClipSize		= 20
 SWEP.Primary.SpareClip		= 20 * 4
 SWEP.Primary.Delay			= 1/(300/60)
-SWEP.Primary.Ammo			= "CombineCannon"
+SWEP.Primary.Ammo			= "dod_30"
 SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 1

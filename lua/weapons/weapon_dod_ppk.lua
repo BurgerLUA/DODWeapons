@@ -4,7 +4,7 @@ if CLIENT then
 end
 
 SWEP.Category				= "Day of Defeat"
-SWEP.PrintName				= "7.65x17mm Walther PPK"
+SWEP.PrintName				= ".32ACP Walther PPK"
 SWEP.Base					= "weapon_cs_base"
 SWEP.WeaponType				= "Secondary"
 
@@ -30,7 +30,7 @@ SWEP.Primary.Cone			= 0.005
 SWEP.Primary.ClipSize		= 8
 SWEP.Primary.SpareClip		= 8 * 4
 SWEP.Primary.Delay			= 1/(400/60)
-SWEP.Primary.Ammo			= "CombineCannon"
+SWEP.Primary.Ammo			= "dod_32"
 SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 1
