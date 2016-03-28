@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 105
+SWEP.Primary.Damage			= 110
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_kar.shoot" )
 SWEP.Primary.Cone			= 0.001

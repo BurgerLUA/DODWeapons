@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "revolver"
 
-SWEP.Primary.Damage			= 30
+SWEP.Primary.Damage			= 32
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_c96.shoot" )
 SWEP.Primary.Cone			= 0.0075
@@ -33,10 +33,10 @@ SWEP.Primary.Delay			= 1/(600/60)
 SWEP.Primary.Ammo			= "dod_763x25"
 SWEP.Primary.Automatic 		= true
 
-SWEP.RecoilMul 				= 1
+SWEP.RecoilMul 				= 0.5
 SWEP.SideRecoilMul			= 0.1
 SWEP.VelConeMul				= 0.5
-SWEP.HeatMul				= 1
+SWEP.HeatMul				= 0.5
 
 SWEP.HasScope 				= false
 SWEP.ZoomAmount 			= 0.5

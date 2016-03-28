@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "smg"
 
-SWEP.Primary.Damage			= 30
+SWEP.Primary.Damage			= 40
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_Thompsog.Shoot" )
 SWEP.Primary.Cone			= 0.01
@@ -33,9 +33,9 @@ SWEP.Primary.Delay			= 1/(450/60)
 SWEP.Primary.Ammo			= "SniperPenetratedRound"
 SWEP.Primary.Automatic 		= true
 
-SWEP.RecoilMul 				= 1
-SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 1
+SWEP.RecoilMul				= 0.9
+SWEP.SideRecoilMul			= 0.5
+SWEP.VelConeMul				= 0.5
 SWEP.HeatMul				= 1
 
 SWEP.HasScope 				= false

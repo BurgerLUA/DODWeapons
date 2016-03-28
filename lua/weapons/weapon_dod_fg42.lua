@@ -9,7 +9,7 @@ SWEP.Base					= "weapon_cs_base"
 SWEP.WeaponType				= "Primary"
 
 SWEP.Cost					= 1337
-SWEP.MoveSpeed				= 250 - 50
+SWEP.MoveSpeed				= 250 - 60
 
 SWEP.Spawnable				= true
 SWEP.AdminOnly				= false
@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 30
+SWEP.Primary.Damage			= 50
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_Mp33.Shoot" )
 SWEP.Primary.Cone			= 0.001
@@ -34,9 +34,9 @@ SWEP.Primary.Ammo			= "dod_792x57"
 SWEP.Primary.Automatic 		= true
 
 SWEP.RecoilMul 				= 1
-SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 1
-SWEP.HeatMul				= 1
+SWEP.SideRecoilMul			= 0.5
+SWEP.VelConeMul				= 2
+SWEP.HeatMul				= 0.75
 
 SWEP.HasScope 				= false
 SWEP.ZoomAmount 			= 1

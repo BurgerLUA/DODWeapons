@@ -23,10 +23,10 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 50
+SWEP.Primary.Damage			= 75
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_garand.shoot" )
-SWEP.Primary.Cone			= 0
+SWEP.Primary.Cone			= 0.002
 SWEP.Primary.ClipSize		= 8
 SWEP.Primary.SpareClip		= 8 * 4
 SWEP.Primary.Delay			= 1/(100/60)
@@ -34,9 +34,9 @@ SWEP.Primary.Ammo			= "dod_30-06"
 SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 0.5
-SWEP.SideRecoilMul			= 0.1
+SWEP.SideRecoilMul			= 1
 SWEP.VelConeMul				= 2
-SWEP.HeatMul				= 2.5
+SWEP.HeatMul				= 1
 
 SWEP.HasScope 				= false
 SWEP.ZoomAmount 			= 1
@@ -48,7 +48,7 @@ SWEP.HasBoltAction 			= false
 SWEP.HasBurstFire 			= false
 SWEP.HasSilencer 			= false
 SWEP.HasDoubleZoom			= false
-SWEP.HasSideRecoil			= true
+SWEP.HasSideRecoil			= false
 SWEP.HasDownRecoil			= false
 
 SWEP.HasIronSights 			= true

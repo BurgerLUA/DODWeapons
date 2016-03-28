@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "smg"
 
-SWEP.Primary.Damage			= 25
+SWEP.Primary.Damage			= 35
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_mp40.shoot" )
 SWEP.Primary.Cone			= 0.0025

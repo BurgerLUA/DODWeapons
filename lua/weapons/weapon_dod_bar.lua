@@ -23,10 +23,10 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 35
+SWEP.Primary.Damage			= 36
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound("Weapon_Bar.Shoot")
-SWEP.Primary.Cone			= 0.002
+SWEP.Primary.Cone			= 0.0025
 SWEP.Primary.ClipSize		= 20
 SWEP.Primary.SpareClip		= 20 * 4
 SWEP.Primary.Delay			= 1/(500/60)
@@ -34,9 +34,9 @@ SWEP.Primary.Ammo			= "dod_30"
 SWEP.Primary.Automatic 		= true
 
 SWEP.RecoilMul 				= 1
-SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 1
-SWEP.HeatMul				= 1.25
+SWEP.SideRecoilMul			= 0.5
+SWEP.VelConeMul				= 1.5
+SWEP.HeatMul				= 0.8
 
 SWEP.HasScope 				= false
 SWEP.ZoomAmount 			= 1

@@ -21,9 +21,9 @@ SWEP.ViewModel				= "models/weapons/a_garanb.mdl"
 SWEP.WorldModel				= "models/weapons/b_garanb.mdl"
 SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
-SWEP.HoldType				= "revolver"
+SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 45
+SWEP.Primary.Damage			= 70
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_Barand.Shoot" )
 SWEP.Primary.Cone			= 0.0001
@@ -35,7 +35,7 @@ SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 1
 SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 3
+SWEP.VelConeMul				= 1.5
 SWEP.HeatMul				= 1
 
 SWEP.HasScope 				= false
@@ -48,7 +48,7 @@ SWEP.HasBoltAction 			= false
 SWEP.HasBurstFire 			= false
 SWEP.HasSilencer 			= false
 SWEP.HasDoubleZoom			= false
-SWEP.HasSideRecoil			= true
+SWEP.HasSideRecoil			= false
 SWEP.HasDownRecoil			= false
 
 SWEP.HasIronSights 			= true
@@ -59,5 +59,7 @@ SWEP.IronSightsPos 			= Vector (-6.9511, -4.6049, 5.0704)
 SWEP.IronSightsAng 			= Vector (0.0071, 0.0049, 0)
 
 SWEP.DamageFalloff			= 2000
+
+SWEP.AddFOV = 15
 
 

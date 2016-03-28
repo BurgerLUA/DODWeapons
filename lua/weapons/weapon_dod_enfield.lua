@@ -23,13 +23,13 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "revolver"
 
-SWEP.Primary.Damage			= 60
+SWEP.Primary.Damage			= 90
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_lolt.Shoot" )
 SWEP.Primary.Cone			= 0.0075
 SWEP.Primary.ClipSize		= 6
 SWEP.Primary.SpareClip		= 6 * 4
-SWEP.Primary.Delay			= 1/( (30*3) /60)
+SWEP.Primary.Delay			= 1/( (30*2) /60)
 SWEP.Primary.Ammo			= "dod_476"
 SWEP.Primary.Automatic 		= false
 

@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 35
+SWEP.Primary.Damage			= 66
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_carbine.shoot" )
 SWEP.Primary.Cone			= 0.004
@@ -33,10 +33,10 @@ SWEP.Primary.Delay			= 1/(300/60)
 SWEP.Primary.Ammo			= "dod_30"
 SWEP.Primary.Automatic 		= false
 
-SWEP.RecoilMul 				= 1
-SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 0.5
-SWEP.HeatMul				= 1
+SWEP.RecoilMul 				= 1.25
+SWEP.SideRecoilMul			= 0.5
+SWEP.VelConeMul				= 1.5
+SWEP.HeatMul				= 0.9
 
 SWEP.HasScope 				= false
 SWEP.ZoomAmount 			= 1
@@ -48,7 +48,7 @@ SWEP.HasBoltAction 			= false
 SWEP.HasBurstFire 			= false
 SWEP.HasSilencer 			= false
 SWEP.HasDoubleZoom			= false
-SWEP.HasSideRecoil			= true
+SWEP.HasSideRecoil			= false
 SWEP.HasDownRecoil			= false
 
 SWEP.HasIronSights 			= true

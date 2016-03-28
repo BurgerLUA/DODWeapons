@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= true
 SWEP.UseHands				= false
 SWEP.HoldType				= "revolver"
 
-SWEP.Primary.Damage			= 30
+SWEP.Primary.Damage			= 40
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound 			= Sound("Weapon_WiveSeven.Shoot")
 SWEP.Primary.Cone			= 0.005

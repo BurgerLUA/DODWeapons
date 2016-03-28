@@ -23,14 +23,14 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 25
+SWEP.Primary.Damage			= 35
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_mg42.shoot" )
 SWEP.Primary.Cone			= 0.01
 SWEP.Primary.ClipSize		= 100
 SWEP.Primary.SpareClip		= 100 * 2
 SWEP.Primary.Delay			= 1/(900/60)
-SWEP.Primary.Ammo			= "CombineCannon"
+SWEP.Primary.Ammo			= "dod_792x57"
 SWEP.Primary.Automatic 		= true
 
 SWEP.RecoilMul 				= 1

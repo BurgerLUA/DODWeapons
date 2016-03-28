@@ -21,20 +21,20 @@ SWEP.ViewModel				= "models/weapons/a_thompsom.mdl"
 SWEP.WorldModel				= "models/weapons/b_thompsom.mdl"
 SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
-SWEP.HoldType				= "smg1"
+SWEP.HoldType				= "smg"
 
-SWEP.Primary.Damage			= 27
+SWEP.Primary.Damage			= 35
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_Thompsom.Shoot" )
-SWEP.Primary.Cone			= 0.01
+SWEP.Primary.Cone			= 0.0075
 SWEP.Primary.ClipSize		= 50
 SWEP.Primary.SpareClip		= 50 * 4
 SWEP.Primary.Delay			= 1/(600/60)
 SWEP.Primary.Ammo			= "SniperPenetratedRound"
 SWEP.Primary.Automatic 		= true
 
-SWEP.RecoilMul 				= 1
-SWEP.SideRecoilMul			= 0.1
+SWEP.RecoilMul				= 0.9
+SWEP.SideRecoilMul			= 0.5
 SWEP.VelConeMul				= 0.5
 SWEP.HeatMul				= 0.9
 
@@ -60,4 +60,4 @@ SWEP.IronSightsAng 			= Vector (0.079, 0.0076, 0)
 
 SWEP.DamageFalloff			= 750
 
-SWEP.AddFOV	= -10
+SWEP.AddFOV	= 0

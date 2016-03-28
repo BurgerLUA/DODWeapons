@@ -9,12 +9,12 @@ SWEP.Base					= "weapon_cs_base"
 SWEP.WeaponType				= "Primary"
 
 SWEP.Cost					= 1337
-SWEP.MoveSpeed				= 250 - (4 * 5)
+SWEP.MoveSpeed				= 250 - (10)
 
 SWEP.Spawnable				= true
 SWEP.AdminOnly				= false
 
-SWEP.Slot					= 4 - 1
+SWEP.Slot					= 3 - 1
 SWEP.SlotPos				= 1
 
 SWEP.ViewModel				= "models/weapons/a_snip_decar.mdl"
@@ -23,20 +23,20 @@ SWEP.ViewModelFlip 			= true
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 50
+SWEP.Primary.Damage			= 60
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound("Weapon_sil.Shoot")
-SWEP.Primary.Cone			= 0
+SWEP.Primary.Cone			= 0.00125
 SWEP.Primary.ClipSize		= 11
-SWEP.Primary.SpareClip		= 11 * 4
+SWEP.Primary.SpareClip		= 11 * 2
 SWEP.Primary.Delay			= 1.25
 SWEP.Primary.Ammo			= "SniperPenetratedRound"
 SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 0.1
 SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 2
-SWEP.HeatMul				= 1
+SWEP.VelConeMul				= 0
+SWEP.HeatMul				= 0.5
 
 SWEP.HasScope 				= true
 SWEP.ZoomAmount 			= 7
@@ -48,7 +48,7 @@ SWEP.HasBoltAction 			= true
 SWEP.HasBurstFire 			= false
 SWEP.HasSilencer 			= false
 SWEP.HasDoubleZoom			= false
-SWEP.HasSideRecoil			= true
+SWEP.HasSideRecoil			= false
 SWEP.HasDownRecoil			= false
 
 SWEP.HasIronSights 			= false
@@ -59,3 +59,5 @@ SWEP.IronSightsPos 			= Vector (0, 0, 0)
 SWEP.IronSightsAng 			= Vector (0, 0, 0)
 
 SWEP.DamageFalloff			= 1000
+
+SWEP.EnableTracer			= false

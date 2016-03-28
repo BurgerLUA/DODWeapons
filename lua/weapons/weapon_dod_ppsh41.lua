@@ -23,20 +23,20 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "smg"
 
-SWEP.Primary.Damage			= 15
+SWEP.Primary.Damage			= 25
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_Thompsoh.Shoot" )
-SWEP.Primary.Cone			= 0.01
+SWEP.Primary.Cone			= 0.0075
 SWEP.Primary.ClipSize		= 71
 SWEP.Primary.SpareClip		= 71 * 1
 SWEP.Primary.Delay			= 1/(1000/60)
 SWEP.Primary.Ammo			= "dod_763x25"
 SWEP.Primary.Automatic 		= true
 
-SWEP.RecoilMul 				= 1
-SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 2
-SWEP.HeatMul				= 0.75
+SWEP.RecoilMul				= 1
+SWEP.SideRecoilMul			= 1
+SWEP.VelConeMul				= 0.5
+SWEP.HeatMul				= 0.5
 
 SWEP.HasScope 				= false
 SWEP.ZoomAmount 			= 1
@@ -49,7 +49,7 @@ SWEP.HasBurstFire 			= false
 SWEP.HasSilencer 			= false
 SWEP.HasDoubleZoom			= false
 SWEP.HasSideRecoil			= true
-SWEP.HasDownRecoil			= false
+SWEP.HasDownRecoil			= true
 
 SWEP.HasIronSights 			= true
 SWEP.EnableIronCross		= false
@@ -58,6 +58,6 @@ SWEP.IronSightTime			= 0.125
 SWEP.IronSightsPos 			= Vector (-4.5469, -3.7577, 1.9522)
 SWEP.IronSightsAng 			= Vector (0.3059, -0.0848, 0)
 
-SWEP.DamageFalloff			= 500
+SWEP.DamageFalloff			= 1000
 
 SWEP.AddFOV	= -15

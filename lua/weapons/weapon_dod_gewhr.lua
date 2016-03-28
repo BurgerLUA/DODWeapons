@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 60
+SWEP.Primary.Damage			= 75
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_Karbine.Shoot" )
 SWEP.Primary.Cone			= 0.002
@@ -35,7 +35,7 @@ SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 1
 SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 0.5
+SWEP.VelConeMul				= 1
 SWEP.HeatMul				= 1
 
 SWEP.HasScope 				= false
@@ -55,7 +55,7 @@ SWEP.HasIronSights 			= true
 SWEP.EnableIronCross		= false
 SWEP.HasGoodSights			= true
 SWEP.IronSightTime			= 0.125
-SWEP.IronSightsPos 			= Vector (-6.6751, 20, 3.8333)
+SWEP.IronSightsPos 			= Vector (-6.6751, 0, 3.8333)
 SWEP.IronSightsAng 			= Vector (0.0443, -0.001, 0)
 
 SWEP.DamageFalloff			= 2000

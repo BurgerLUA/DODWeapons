@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "smg"
 
-SWEP.Primary.Damage			= 30
+SWEP.Primary.Damage			= 35
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_mp44.shoot" )
 SWEP.Primary.Cone			= 0.005
@@ -58,4 +58,4 @@ SWEP.IronSightTime			= 0.125
 SWEP.IronSightsPos 			= Vector (-3.6253, -5.7506, 1.572)
 SWEP.IronSightsAng 			= Vector (-0.3315, 0.33, 0)
 
-SWEP.DamageFalloff			= 600 * (64/1.22) * 0.3
+SWEP.DamageFalloff			= 2000

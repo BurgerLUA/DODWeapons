@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "revolver"
 
-SWEP.Primary.Damage			= 30
+SWEP.Primary.Damage			= 40
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound("Weapon_toka.Shoot")
 SWEP.Primary.Cone			= 0.0025
@@ -60,4 +60,4 @@ SWEP.IronSightsAng 			= Vector (0.1859, -0.0594, 0)
 
 SWEP.DamageFalloff			= 1000
 
-SWEP.AddFOV					= -5
+SWEP.AddFOV					= 5

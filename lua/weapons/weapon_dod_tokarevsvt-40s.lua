@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 45
+SWEP.Primary.Damage			= 70
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_Barand.Shoot" )
 SWEP.Primary.Cone			= 0
@@ -35,7 +35,7 @@ SWEP.Primary.Automatic 		= false
 
 SWEP.RecoilMul 				= 1
 SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 5
+SWEP.VelConeMul				= 2
 SWEP.HeatMul				= 1
 
 SWEP.HasScope 				= true
@@ -59,5 +59,7 @@ SWEP.IronSightsPos 			= Vector (0, 0, 0)
 SWEP.IronSightsAng 			= Vector (0, 0, 0)
 
 SWEP.DamageFalloff			= 2000
+
+SWEP.AddFOV = 15
 
 

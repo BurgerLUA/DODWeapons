@@ -23,19 +23,19 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 105
+SWEP.Primary.Damage			= 125
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound("Weapon_Springfield.Shoot")
-SWEP.Primary.Cone			= 0.001
+SWEP.Primary.Cone			= 0
 SWEP.Primary.ClipSize		= 5
 SWEP.Primary.SpareClip		= 5 * 4
 SWEP.Primary.Delay			= 1.5
 SWEP.Primary.Ammo			= "dod_30-06"
 SWEP.Primary.Automatic 		= false
 
-SWEP.RecoilMul 				= 0.25
+SWEP.RecoilMul 				= 0.1
 SWEP.SideRecoilMul			= 0.1
-SWEP.VelConeMul				= 4
+SWEP.VelConeMul				= 2
 SWEP.HeatMul				= 1
 
 SWEP.HasScope 				= true
@@ -58,7 +58,7 @@ SWEP.IronSightTime			= 0.125
 SWEP.IronSightsPos 			= Vector (0, 0, 0)
 SWEP.IronSightsAng 			= Vector (0, 0, 0)
 
-SWEP.DamageFalloff			= 2000
+SWEP.DamageFalloff			= 3000
 
 SWEP.AddFOV	= -15
 

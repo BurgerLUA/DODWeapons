@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "revolver"
 
-SWEP.Primary.Damage			= 40
+SWEP.Primary.Damage			= 50
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound("Weapon_Colt.Shoot")
 SWEP.Primary.Cone			= 0.006
@@ -33,10 +33,10 @@ SWEP.Primary.Delay			= 1/(400/60)
 SWEP.Primary.Ammo			= "SniperPenetratedRound"
 SWEP.Primary.Automatic 		= false
 
-SWEP.RecoilMul 				= 1.5
+SWEP.RecoilMul 				= 1
 SWEP.SideRecoilMul			= 0.1
 SWEP.VelConeMul				= 0.5
-SWEP.HeatMul				= 1.5
+SWEP.HeatMul				= 1
 
 SWEP.HasScope 				= false
 SWEP.ZoomAmount 			= 0.5

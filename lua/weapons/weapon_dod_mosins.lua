@@ -23,13 +23,13 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 125
+SWEP.Primary.Damage			= 150
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound("Weapon_Mar.Shoot")
 SWEP.Primary.Cone			= 0.00075
 SWEP.Primary.ClipSize		= 5
 SWEP.Primary.SpareClip		= 5 * 4
-SWEP.Primary.Delay			= 1/(30/60)
+SWEP.Primary.Delay			= 1/(40/60)
 SWEP.Primary.Ammo			= "dod_762x54"
 SWEP.Primary.Automatic 		= false
 
@@ -54,12 +54,12 @@ SWEP.HasDownRecoil			= false
 SWEP.HasIronSights 			= false
 SWEP.EnableIronCross		= false
 SWEP.HasGoodSights			= false
-SWEP.IronSightTime			= 0.125
-SWEP.IronSightsPos 			= Vector (0, 0, 0)
+SWEP.IronSightTime			= 0.25
+SWEP.IronSightsPos 			= Vector (-5, 0, 2)
 SWEP.IronSightsAng 			= Vector (0, 0, 0)
 
 SWEP.DamageFalloff			= 3000
 
-SWEP.AddFOV	= -25
+SWEP.AddFOV	= 0
 
 SWEP.DisableReloadUntilEmpty = true
