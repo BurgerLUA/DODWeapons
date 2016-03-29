@@ -23,7 +23,7 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 125
+SWEP.Primary.Damage			= 100
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound("Weapon_Springfield.Shoot")
 SWEP.Primary.Cone			= 0
@@ -58,7 +58,7 @@ SWEP.IronSightTime			= 0.125
 SWEP.IronSightsPos 			= Vector (0, 0, 0)
 SWEP.IronSightsAng 			= Vector (0, 0, 0)
 
-SWEP.DamageFalloff			= 3000
+SWEP.DamageFalloff			= 5000
 
 SWEP.AddFOV	= -15
 

@@ -23,13 +23,13 @@ SWEP.ViewModelFlip 			= false
 SWEP.UseHands				= false
 SWEP.HoldType				= "ar2"
 
-SWEP.Primary.Damage			= 110
+SWEP.Primary.Damage			= 115
 SWEP.Primary.NumShots		= 1
 SWEP.Primary.Sound			= Sound( "Weapon_kar.shoot" )
 SWEP.Primary.Cone			= 0
 SWEP.Primary.ClipSize		= 5
 SWEP.Primary.SpareClip		= 5 * 4
-SWEP.Primary.Delay			= 1/(40/60)
+SWEP.Primary.Delay			= 1.5
 SWEP.Primary.Ammo			= "dod_792x57"
 SWEP.Primary.Automatic 		= false
 
@@ -58,8 +58,8 @@ SWEP.IronSightTime			= 0.125
 SWEP.IronSightsPos 			= Vector (0, 0, 0)
 SWEP.IronSightsAng 			= Vector (0, 0, 0)
 
-SWEP.DamageFalloff			= 2000
+SWEP.DamageFalloff			= 5000
 
-SWEP.AddFOV	= -15
+SWEP.AddFOV	= -5
 
 SWEP.DisableReloadUntilEmpty = true
